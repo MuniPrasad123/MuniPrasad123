@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:14B8A6,100:5EEAD4&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&width=1000&lines=Senior+Software+Engineer;Senior+Technical+Consultant;Enterprise+E-Commerce+Engineer;Oracle+ATG+Commerce+Specialist;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Building+Scalable+Enterprise+Commerce+Solutions" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&width=1000&lines=Senior+Software+Engineer;Senior+Technical+Consultant;Enterprise+E-Commerce+Engineer;Oracle+ATG+Commerce+Specialist;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;KIBO+Commerce+%7C+Docker+%7C+Kubernetes;APIGEE+Gateway+%7C+Figma+Design;Building+Scalable+Enterprise+Commerce+Solutions" alt="Typing Animation" />
 
 <br/>
 <br/>
@@ -52,15 +52,17 @@
 
 I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ years of professional experience** in enterprise software engineering, eCommerce platforms, backend systems, integrations, and production support.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=800&color=14B8A6&vCenter=true&width=650&lines=Enterprise+E-Commerce+Engineer;Oracle+ATG+Commerce+Specialist;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+AWS+%7C+Cloud+Deployment;Production+Support+%7C+RCA+%7C+Integrations" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=800&color=14B8A6&vCenter=true&width=650&lines=Enterprise+E-Commerce+Engineer;Oracle+ATG+Commerce+Specialist;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+AWS+%7C+Cloud+Deployment;KIBO+Commerce+%7C+Docker+%7C+Kubernetes;APIGEE+Gateway+%7C+Figma+Design;Production+Support+%7C+RCA+%7C+Integrations" />
 
 <br/>
 
 * 🛒 Specialized in **Enterprise E-Commerce** and **Oracle ATG Commerce**
 * ☕ Strong experience in **Java, J2EE, Spring Boot, Microservices, REST APIs**
 * ⚛️ Hands-on with **React.js, Next.js, TypeScript, JavaScript, Tailwind CSS**
-* ☁️ Experienced with **AWS, Vercel, Docker, Jenkins, Git, Linux**
-* 🔗 Worked on **Salesforce CRM integrations, payment gateways, checkout, promotions, OMS**
+* ☁️ Experienced with **AWS, Vercel, Docker, Kubernetes, Jenkins, Git, Linux**
+* 🧩 Hands-on with **KIBO Commerce, Oracle ATG Commerce, OMS, Subscriptions, Search, and eCommerce administration**
+* 🔗 Worked on **Salesforce CRM integrations, APIGEE API Gateway, payment gateways, checkout, promotions, OMS**
+* 🎨 Comfortable with **Figma-based UI understanding, frontend design alignment, and responsive implementation**
 * 🛠️ Strong in **production support, RCA, log analysis, defect fixing, and release support**
 * 🚀 Building professional GitHub projects, portfolio, and technical documentation
 * 🤖 Exploring **Generative AI, Agentic AI, Cloud Automation, and System Design**
@@ -88,7 +90,7 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=14B8A6&center=true&vCenter=true&width=950&lines=Designing+Enterprise+E-Commerce+Solutions;Building+Java+%7C+Spring+Boot+%7C+React+Applications;Solving+Production+Issues+with+RCA+and+Debugging;Working+on+Checkout%2C+Payments%2C+Promotions%2C+OMS;Learning+GenAI%2C+Agentic+AI%2C+Cloud+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=14B8A6&center=true&vCenter=true&width=950&lines=Designing+Enterprise+E-Commerce+Solutions;KIBO+Commerce+%7C+Oracle+ATG+Commerce;Building+Java+%7C+Spring+Boot+%7C+React+Applications;AWS+%7C+Docker+%7C+Kubernetes+%7C+APIGEE;Figma+Design+%7C+Responsive+Frontend+Delivery;Working+on+Checkout%2C+Payments%2C+Promotions%2C+OMS" />
 
 <br/>
 <br/>
@@ -109,6 +111,8 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <br/>
 <h3>🛒 Primary Domain</h3>
 <img src="https://img.shields.io/badge/Enterprise%20E--Commerce-0F172A?style=for-the-badge&logo=shopify&logoColor=14B8A6" />
+<br/>
+<img src="https://img.shields.io/badge/KIBO%20Commerce-FFD700?style=for-the-badge&logoColor=0F172A" />
 <br/>
 <img src="https://img.shields.io/badge/Oracle%20ATG%20Commerce-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </td>
@@ -133,6 +137,8 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Figma%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </td>
 </tr>
 
@@ -147,6 +153,8 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <br/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </td>
 
@@ -155,6 +163,8 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <br/>
 <h3>🔗 Integrations</h3>
 <img src="https://img.shields.io/badge/Salesforce%20CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/APIGEE%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Payment%20Gateway-0F172A?style=for-the-badge&logo=stripe&logoColor=14B8A6" />
 <br/>
@@ -193,9 +203,9 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 <div align="center">
 
-### 🧩 Frontend
+### 🧩 Frontend & UI Design
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,figma" />
 
 <br/>
 <br/>
@@ -207,9 +217,9 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <br/>
 <br/>
 
-### 🗄️ Database & Cloud
+### 🗄️ Database, Cloud & Containers
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,vercel,docker,linux" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,vercel,docker,kubernetes,linux" />
 
 <br/>
 <br/>
@@ -222,9 +232,327 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <br/>
 
 <img src="https://img.shields.io/badge/Oracle%20ATG-Commerce-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/KIBO-Commerce-FFD700?style=for-the-badge&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/APIGEE-API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle%20DB-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-Agile%20Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+</div>
+
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" /> Certifications & Credentials <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=850&color=14B8A6&center=true&vCenter=true&width=1000&lines=Certified+in+KIBO+Commerce+Platform;Commerce+%7C+OMS+%7C+Subscriptions+%7C+Search;AWS+%7C+APIGEE+%7C+Java+%7C+Shopify;Cloud+%7C+API+Gateway+%7C+Enterprise+E-Commerce" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/KIBO%20Commerce-Certified-FFD700?style=for-the-badge&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/AWS-Solution%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/APIGEE-API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b8c6-7f8c1f0fbc88.gif" width="72" />
+<img src="https://user-images.githubusercontent.com/74038190/216656986-88e7a45c-6d31-4cf7-a825-765dc3b86f7e.gif" width="72" />
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="72" />
+
+</div>
+
+<br/>
+
+### 🟡 KIBO Commerce Certifications
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=KIBO+Business+Administration;KIBO+eCommerce+%7C+OMS+%7C+Subscriptions+%7C+Search;KIBO+Developer+Certification" />
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/KIBO-Business%20Administration-FFD700?style=for-the-badge&logoColor=0F172A" />
+<br/><br/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
+<br/>
+<b>Kibo Business Administration Certification</b>
+<br/>
+<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>1Mz93sW3SQhQyA<wbr>sCbt-<wbr>qss3eK55uWN5Zf</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/KIBO-eCommerce-FFD700?style=for-the-badge&logoColor=0F172A" />
+<br/><br/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="50" />
+<br/>
+<b>Kibo Ecomm only Certification</b>
+<br/>
+<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>1M1av7ZLXmrVeX<wbr>GNF4TGblNdLTtM<wbr>LjAyk</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/KIBO-OMS-FFD700?style=for-the-badge&logoColor=0F172A" />
+<br/><br/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
+<br/>
+<b>Kibo OMS only Certification</b>
+<br/>
+<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>1zpqBMBzBBU_<wbr>Cv2Ub5YjedxfYy<wbr>QjfVlsH</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/KIBO-Subscriptions-FFD700?style=for-the-badge&logoColor=0F172A" />
+<br/><br/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
+<br/>
+<b>Kibo Subscription Only Certification</b>
+<br/>
+<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>1-<wbr>9DYKwpEhMjHkzI<wbr>XrJ1yH2Ep4Uyic<wbr>PKO</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/KIBO-Search-FFD700?style=for-the-badge&logoColor=0F172A" />
+<br/><br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" />
+<br/>
+<b>Kibo Search only Certification</b>
+<br/>
+<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>10Z6DJBl_<wbr>egtWU-<wbr>Zd0nby6CHgSIEe<wbr>LWJe</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/KIBO-Developer-FFD700?style=for-the-badge&logoColor=0F172A" />
+<br/><br/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" />
+<br/>
+<b>Kibo Developers Certification</b>
+<br/>
+<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Oct 2024 - Oct 2026</sub>
+<br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🟣 Professional Technical Certifications
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=AWS+%7C+APIGEE+%7C+Java+%7C+Auth0;Shopify+%7C+Angular+%7C+Spring+Boot;Developer+Tools+%7C+Git+%7C+Debugging" />
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-Solution%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<br/><br/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" />
+<br/>
+<b>AWS Solution Architect</b>
+<br/>
+<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Status:</b> Completed</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>e32034a2-<wbr>a833-<wbr>4405-<wbr>a84a-<wbr>3b3fa155edf7</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/APIGEE-API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<br/><br/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50" />
+<br/>
+<b>APIGEE</b>
+<br/>
+<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Issued:</b> Nov 2021</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>055460ce-<wbr>2981-<wbr>4bdd-<wbr>abf7-<wbr>67e865f55d4e</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-API%20Gateway-14B8A6?style=flat-square" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/Java-SE%208-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<br/><br/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" />
+<br/>
+<b>Java SE 8 Programmer</b>
+<br/>
+<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Issued:</b> Jan 2023</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>43387a2f-<wbr>1041-<wbr>4034-<wbr>b970-<wbr>1a48a0567adb</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/Auth0-Secure%20APIs-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+<br/><br/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50" />
+<br/>
+<b>Auth0 - Secure API's</b>
+<br/>
+<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Issued:</b> Dec 2023</sub>
+<br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-API%20Security-0F172A?style=flat-square" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/Shopify-DropShipping-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<br/><br/>
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" />
+<br/>
+<b>Shopify DropShipping</b>
+<br/>
+<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Issued:</b> Nov 2024</sub>
+<br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>5ce6e127-<wbr>08c8-<wbr>421a-<wbr>b640-<wbr>4626e59d265a</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/Angular%20%2B%20Spring%20Boot-Full%20Stack-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<br/><br/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" />
+<br/>
+<b>Angular and Spring Boot</b>
+<br/>
+<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Status:</b> Completed</sub>
+<br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Full%20Stack-14B8A6?style=flat-square" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/Developer%20Tools-Eclipse%20%7C%20Chrome-0F172A?style=for-the-badge&logo=eclipseide&logoColor=white" />
+<br/><br/>
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="50" />
+<br/>
+<b>Eclipse IDE Features + Chrome Developer Tools</b>
+<br/>
+<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Status:</b> Completed</sub>
+<br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Debugging-2563EB?style=flat-square" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/Git-Crash%20Course-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br/><br/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
+<br/>
+<b>Git Crash Course</b>
+<br/>
+<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Status:</b> Completed</sub>
+<br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Skill-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</div>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+&nbsp;
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=900&lines=Verified+credentials+posted+on+LinkedIn;Enterprise+Commerce+%7C+Cloud+%7C+API+Gateway+%7C+Engineering;Continuous+learning+with+real+project+implementation" />
 
 </div>
 
@@ -298,7 +626,7 @@ A modern portfolio website built to showcase my experience, technical skills, pr
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=14B8A6&center=true&vCenter=true&width=950&lines=Checkout+%7C+Payments+%7C+Promotions+%7C+OMS;Salesforce+CRM+%7C+GTM+%7C+Pinterest+CAPI;Oracle+ATG+Commerce+%7C+Enterprise+Retail+Systems;Production+Support+%7C+RCA+%7C+Release+Support" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=14B8A6&center=true&vCenter=true&width=950&lines=Checkout+%7C+Payments+%7C+Promotions+%7C+OMS;KIBO+Commerce+%7C+Search+%7C+Subscriptions+%7C+Administration;Salesforce+CRM+%7C+APIGEE+%7C+GTM+%7C+Pinterest+CAPI;Oracle+ATG+Commerce+%7C+Enterprise+Retail+Systems;Production+Support+%7C+RCA+%7C+Release+Support" />
 
 <br/>
 <br/>
@@ -309,6 +637,8 @@ A modern portfolio website built to showcase my experience, technical skills, pr
 <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="75" />
 <br/>
 <h3>🛒 Commerce Platform</h3>
+<img src="https://img.shields.io/badge/KIBO%20Commerce-FFD700?style=for-the-badge&logoColor=0F172A" />
+<br/>
 <img src="https://img.shields.io/badge/Oracle%20ATG%20Commerce-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Enterprise%20Retail%20Systems-0F172A?style=for-the-badge&logo=shopify&logoColor=14B8A6" />
@@ -357,6 +687,8 @@ A modern portfolio website built to showcase my experience, technical skills, pr
 <br/>
 <h3>🔗 CRM Integration</h3>
 <img src="https://img.shields.io/badge/Salesforce%20CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/APIGEE%20API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Account%20%26%20Contact%20Sync-0F172A?style=for-the-badge&logo=graphql&logoColor=14B8A6" />
 </td>
