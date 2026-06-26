@@ -68,7 +68,7 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 </td>
 <td width="42%" align="center">
 
-<img src="muni-profile.png" width="270" alt="Muni Prasad K" />
+<img src="https://github.com/MuniPrasad123.png" width="235" alt="Muni Prasad K" />
 
 <br/>
 <br/>
