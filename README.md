@@ -1,8 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:14B8A6,100:5EEAD4&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:14B8A6&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,45:14B8A6,100:0F172A&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50">
+  <img width="100%" alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:14B8A6,100:5EEAD4&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50">
+</picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&width=1000&lines=Senior+Software+Engineer;Senior+Technical+Consultant;Enterprise+E-Commerce+Engineer;Oracle+ATG+Commerce+Specialist;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;KIBO+Commerce+%7C+Docker+%7C+Kubernetes;APIGEE+Gateway+%7C+Figma+Design;Building+Scalable+Enterprise+Commerce+Solutions" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&width=1000&lines=Senior+Software+Engineer;Senior+Technical+Consultant;Enterprise+E-Commerce+Engineer;Oracle+ATG+Commerce+Specialist;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;KIBO+Commerce+%7C+Docker+%7C+Kubernetes;APIGEE+Gateway+%7C+Figma+Design;Building+Scalable+Enterprise+Commerce+Solutions" alt="Typing Animation" />
 
 <br/>
 <br/>
@@ -27,11 +31,8 @@
 <img src="https://img.shields.io/github/followers/MuniPrasad123?label=FOLLOWERS&style=for-the-badge&color=14B8A6" />
 <img src="https://img.shields.io/github/stars/MuniPrasad123?label=STARS&style=for-the-badge&color=14B8A6" />
 
-</div>
-
 <br/>
-
-<div align="center">
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" />
 <img src="https://user-images.githubusercontent.com/74038190/216656986-88e7a45c-6d31-4cf7-a825-765dc3b86f7e.gif" width="35" />
@@ -42,7 +43,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="32" /> About Me <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="32" />
+## <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="32" /> About Me
 
 <table>
 <tr>
@@ -51,10 +52,6 @@
 ### Hi, I am **Muni Prasad K** 👋
 
 I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ years of professional experience** in enterprise software engineering, eCommerce platforms, backend systems, integrations, and production support.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=800&color=14B8A6&vCenter=true&width=650&lines=Enterprise+E-Commerce+Engineer;Oracle+ATG+Commerce+Specialist;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+AWS+%7C+Cloud+Deployment;KIBO+Commerce+%7C+Docker+%7C+Kubernetes;APIGEE+Gateway+%7C+Figma+Design;Production+Support+%7C+RCA+%7C+Integrations" />
-
-<br/>
 
 * 🛒 Specialized in **Enterprise E-Commerce** and **Oracle ATG Commerce**
 * ☕ Strong experience in **Java, J2EE, Spring Boot, Microservices, REST APIs**
@@ -71,12 +68,8 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <td width="42%" align="center">
 
 <br/>
-<br/>
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" />
-
 <br/>
-
 <img src="https://img.shields.io/badge/10%2B%20Years-Experience-14B8A6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20To-Global%20Opportunities-0F172A?style=for-the-badge" />
 
@@ -86,11 +79,11 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656974-46366783-f8be-4a3c-bf73-890e6ea2faca.gif" width="38" /> Professional Focus <img src="https://user-images.githubusercontent.com/74038190/216656974-46366783-f8be-4a3c-bf73-890e6ea2faca.gif" width="38" />
+## <img src="https://user-images.githubusercontent.com/74038190/216656974-46366783-f8be-4a3c-bf73-890e6ea2faca.gif" width="38" /> Professional Focus
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=14B8A6&center=true&vCenter=true&width=950&lines=Designing+Enterprise+E-Commerce+Solutions;KIBO+Commerce+%7C+Oracle+ATG+Commerce;Building+Java+%7C+Spring+Boot+%7C+React+Applications;AWS+%7C+Docker+%7C+Kubernetes+%7C+APIGEE;Figma+Design+%7C+Responsive+Frontend+Delivery;Working+on+Checkout%2C+Payments%2C+Promotions%2C+OMS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=14B8A6&center=true&vCenter=true&width=950&lines=Designing+Enterprise+E-Commerce+Solutions;KIBO+Commerce+%7C+Oracle+ATG+Commerce;Building+Java+%7C+Spring+Boot+%7C+React+Applications;AWS+%7C+Docker+%7C+Kubernetes+%7C+APIGEE;Figma+Design+%7C+Responsive+Frontend+Delivery;Working+on+Checkout%2C+Payments%2C+Promotions%2C+OMS" />
 
 <br/>
 <br/>
@@ -199,7 +192,21 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b17-f0eb-435c-a693-81f7f7a4ee9f.gif" width="35" /> Skills & Technologies <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b17-f0eb-435c-a693-81f7f7a4ee9f.gif" width="35" />
+## <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b17-f0eb-435c-a693-81f7f7a4ee9f.gif" width="35" /> Skill Proficiency
+
+<div align="center">
+
+<sub>Bars animate and fill in on page load — this is a self-hosted SVG, see setup note below ⬇️</sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/main/assets/skills-animated.svg" width="620" alt="Animated skill proficiency bars" />
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b17-f0eb-435c-a693-81f7f7a4ee9f.gif" width="35" /> Skills & Technologies
 
 <div align="center">
 
@@ -207,29 +214,25 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,figma" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven,hibernate" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 🗄️ Database, Cloud & Containers
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,vercel,docker,kubernetes,linux" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 🛠️ DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,vscode,idea,postman,npm" />
 
-<br/>
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Oracle%20ATG-Commerce-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/KIBO-Commerce-FFD700?style=for-the-badge&logoColor=0F172A" />
@@ -241,17 +244,11 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 </div>
 
-
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" /> Certifications & Credentials <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" />
+## <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" /> Certifications & Credentials
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=850&color=14B8A6&center=true&vCenter=true&width=1000&lines=Certified+in+KIBO+Commerce+Platform;Commerce+%7C+OMS+%7C+Subscriptions+%7C+Search;AWS+%7C+APIGEE+%7C+Java+%7C+Shopify;Cloud+%7C+API+Gateway+%7C+Enterprise+E-Commerce" />
-
-<br/>
-<br/>
 
 <img src="https://img.shields.io/badge/KIBO%20Commerce-Certified-FFD700?style=for-the-badge&logoColor=0F172A" />
 <img src="https://img.shields.io/badge/AWS-Solution%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -260,130 +257,63 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <img src="https://img.shields.io/badge/APIGEE-API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b8c6-7f8c1f0fbc88.gif" width="72" />
-<img src="https://user-images.githubusercontent.com/74038190/216656986-88e7a45c-6d31-4cf7-a825-765dc3b86f7e.gif" width="72" />
-<img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="72" />
-
 </div>
 
 <br/>
 
 ### 🟡 KIBO Commerce Certifications
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=KIBO+Business+Administration;KIBO+eCommerce+%7C+OMS+%7C+Subscriptions+%7C+Search;KIBO+Developer+Certification" />
-
-</div>
-
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/KIBO-Business%20Administration-FFD700?style=for-the-badge&logoColor=0F172A" />
-<br/><br/>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
-<br/>
-<b>Kibo Business Administration Certification</b>
-<br/>
-<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>1Mz93sW3SQhQyA<wbr>sCbt-<wbr>qss3eK55uWN5Zf</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/KIBO-Business%20Administration-FFD700?style=for-the-badge&logoColor=0F172A" /><br/><br/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" /><br/>
+<b>Kibo Business Administration Certification</b><br/>
+<sub><b>Issuer:</b> KIBO &nbsp;|&nbsp; <b>Validity:</b> Dec 2024 – Dec 2026</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>1Mz93sW3SQhQyA<wbr>sCbt-<wbr>qss3eK55uWN5Zf</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/KIBO-eCommerce-FFD700?style=for-the-badge&logoColor=0F172A" />
-<br/><br/>
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="50" />
-<br/>
-<b>Kibo Ecomm only Certification</b>
-<br/>
-<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>1M1av7ZLXmrVeX<wbr>GNF4TGblNdLTtM<wbr>LjAyk</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/KIBO-eCommerce-FFD700?style=for-the-badge&logoColor=0F172A" /><br/><br/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="50" /><br/>
+<b>Kibo Ecomm only Certification</b><br/>
+<sub><b>Issuer:</b> KIBO &nbsp;|&nbsp; <b>Validity:</b> Dec 2024 – Dec 2026</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>1M1av7ZLXmrVeX<wbr>GNF4TGblNdLTtM<wbr>LjAyk</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/KIBO-OMS-FFD700?style=for-the-badge&logoColor=0F172A" />
-<br/><br/>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
-<br/>
-<b>Kibo OMS only Certification</b>
-<br/>
-<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>1zpqBMBzBBU_<wbr>Cv2Ub5YjedxfYy<wbr>QjfVlsH</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/KIBO-OMS-FFD700?style=for-the-badge&logoColor=0F172A" /><br/><br/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" /><br/>
+<b>Kibo OMS only Certification</b><br/>
+<sub><b>Issuer:</b> KIBO &nbsp;|&nbsp; <b>Validity:</b> Dec 2024 – Dec 2026</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>1zpqBMBzBBU_<wbr>Cv2Ub5YjedxfYy<wbr>QjfVlsH</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
-</div>
-
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/KIBO-Subscriptions-FFD700?style=for-the-badge&logoColor=0F172A" />
-<br/><br/>
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" />
-<br/>
-<b>Kibo Subscription Only Certification</b>
-<br/>
-<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>1-<wbr>9DYKwpEhMjHkzI<wbr>XrJ1yH2Ep4Uyic<wbr>PKO</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/KIBO-Subscriptions-FFD700?style=for-the-badge&logoColor=0F172A" /><br/><br/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50" /><br/>
+<b>Kibo Subscription Only Certification</b><br/>
+<sub><b>Issuer:</b> KIBO &nbsp;|&nbsp; <b>Validity:</b> Dec 2024 – Dec 2026</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>1-<wbr>9DYKwpEhMjHkzI<wbr>XrJ1yH2Ep4Uyic<wbr>PKO</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/KIBO-Search-FFD700?style=for-the-badge&logoColor=0F172A" />
-<br/><br/>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" />
-<br/>
-<b>Kibo Search only Certification</b>
-<br/>
-<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Dec 2024 - Dec 2026</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>10Z6DJBl_<wbr>egtWU-<wbr>Zd0nby6CHgSIEe<wbr>LWJe</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/KIBO-Search-FFD700?style=for-the-badge&logoColor=0F172A" /><br/><br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" /><br/>
+<b>Kibo Search only Certification</b><br/>
+<sub><b>Issuer:</b> KIBO &nbsp;|&nbsp; <b>Validity:</b> Dec 2024 – Dec 2026</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>10Z6DJBl_<wbr>egtWU-<wbr>Zd0nby6CHgSIEe<wbr>LWJe</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/KIBO-Developer-FFD700?style=for-the-badge&logoColor=0F172A" />
-<br/><br/>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" />
-<br/>
-<b>Kibo Developers Certification</b>
-<br/>
-<sub><b>Issuer:</b> KIBO &nbsp; | &nbsp; <b>Validity:</b> Oct 2024 - Oct 2026</sub>
-<br/>
-<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/KIBO-Developer-FFD700?style=for-the-badge&logoColor=0F172A" /><br/><br/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" /><br/>
+<b>Kibo Developers Certification</b><br/>
+<sub><b>Issuer:</b> KIBO &nbsp;|&nbsp; <b>Validity:</b> Oct 2024 – Oct 2026</sub><br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Kibo-14B8A6?style=flat-square" />
-</div>
-
 </td>
 </tr>
 </table>
@@ -392,173 +322,83 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 ### 🟣 Professional Technical Certifications
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=AWS+%7C+APIGEE+%7C+Java+%7C+Auth0;Shopify+%7C+Angular+%7C+Spring+Boot;Developer+Tools+%7C+Git+%7C+Debugging" />
-
-</div>
-
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-Solution%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<br/><br/>
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" />
-<br/>
-<b>AWS Solution Architect</b>
-<br/>
-<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Status:</b> Completed</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>e32034a2-<wbr>a833-<wbr>4405-<wbr>a84a-<wbr>3b3fa155edf7</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/AWS-Solution%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" /><br/>
+<b>AWS Solution Architect</b><br/>
+<sub><b>Issuer:</b> Udemy &nbsp;|&nbsp; <b>Status:</b> Completed</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>e32034a2-<wbr>a833-<wbr>4405-<wbr>a84a-<wbr>3b3fa155edf7</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/APIGEE-API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<br/><br/>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50" />
-<br/>
-<b>APIGEE</b>
-<br/>
-<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Issued:</b> Nov 2021</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>055460ce-<wbr>2981-<wbr>4bdd-<wbr>abf7-<wbr>67e865f55d4e</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/APIGEE-API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/><br/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50" /><br/>
+<b>APIGEE</b><br/>
+<sub><b>Issuer:</b> Udemy &nbsp;|&nbsp; <b>Issued:</b> Nov 2021</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>055460ce-<wbr>2981-<wbr>4bdd-<wbr>abf7-<wbr>67e865f55d4e</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-API%20Gateway-14B8A6?style=flat-square" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Java-SE%208-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<br/><br/>
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" />
-<br/>
-<b>Java SE 8 Programmer</b>
-<br/>
-<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Issued:</b> Jan 2023</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>43387a2f-<wbr>1041-<wbr>4034-<wbr>b970-<wbr>1a48a0567adb</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/Java-SE%208-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" /><br/>
+<b>Java SE 8 Programmer</b><br/>
+<sub><b>Issuer:</b> Udemy &nbsp;|&nbsp; <b>Issued:</b> Jan 2023</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>43387a2f-<wbr>1041-<wbr>4034-<wbr>b970-<wbr>1a48a0567adb</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-</div>
-
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Auth0-Secure%20APIs-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-<br/><br/>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50" />
-<br/>
-<b>Auth0 - Secure API's</b>
-<br/>
-<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Issued:</b> Dec 2023</sub>
-<br/>
-<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/Auth0-Secure%20APIs-EB5424?style=for-the-badge&logo=auth0&logoColor=white" /><br/><br/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50" /><br/>
+<b>Auth0 - Secure API's</b><br/>
+<sub><b>Issuer:</b> Udemy &nbsp;|&nbsp; <b>Issued:</b> Dec 2023</sub><br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-API%20Security-0F172A?style=flat-square" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Shopify-DropShipping-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<br/><br/>
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" />
-<br/>
-<b>Shopify DropShipping</b>
-<br/>
-<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Issued:</b> Nov 2024</sub>
-<br/>
-<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>5ce6e127-<wbr>08c8-<wbr>421a-<wbr>b640-<wbr>4626e59d265a</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/Shopify-DropShipping-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /><br/><br/>
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" /><br/>
+<b>Shopify DropShipping</b><br/>
+<sub><b>Issuer:</b> Udemy &nbsp;|&nbsp; <b>Issued:</b> Nov 2024</sub><br/>
+<sub><b>Credential ID:</b></sub><br/><sub><code>UC-<wbr>5ce6e127-<wbr>08c8-<wbr>421a-<wbr>b640-<wbr>4626e59d265a</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Angular%20%2B%20Spring%20Boot-Full%20Stack-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<br/><br/>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" />
-<br/>
-<b>Angular and Spring Boot</b>
-<br/>
-<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Status:</b> Completed</sub>
-<br/>
-<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/Angular%20%2B%20Spring%20Boot-Full%20Stack-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br/><br/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" /><br/>
+<b>Angular and Spring Boot</b><br/>
+<sub><b>Issuer:</b> Udemy &nbsp;|&nbsp; <b>Status:</b> Completed</sub><br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Full%20Stack-14B8A6?style=flat-square" />
-</div>
-
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Developer%20Tools-Eclipse%20%7C%20Chrome-0F172A?style=for-the-badge&logo=eclipseide&logoColor=white" />
-<br/><br/>
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="50" />
-<br/>
-<b>Eclipse IDE Features + Chrome Developer Tools</b>
-<br/>
-<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Status:</b> Completed</sub>
-<br/>
-<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/Developer%20Tools-Eclipse%20%7C%20Chrome-0F172A?style=for-the-badge&logo=eclipseide&logoColor=white" /><br/><br/>
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="50" /><br/>
+<b>Eclipse IDE Features + Chrome Developer Tools</b><br/>
+<sub><b>Issuer:</b> Udemy &nbsp;|&nbsp; <b>Status:</b> Completed</sub><br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Debugging-2563EB?style=flat-square" />
-</div>
-
 </td>
 <td width="33%" align="center" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Git-Crash%20Course-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<br/><br/>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
-<br/>
-<b>Git Crash Course</b>
-<br/>
-<sub><b>Issuer:</b> Udemy &nbsp; | &nbsp; <b>Status:</b> Completed</sub>
-<br/>
-<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/Git-Crash%20Course-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" /><br/>
+<b>Git Crash Course</b><br/>
+<sub><b>Issuer:</b> Udemy &nbsp;|&nbsp; <b>Status:</b> Completed</sub><br/>
+<sub><b>Credential:</b></sub><br/><sub><code>Available on LinkedIn</code></sub><br/><br/>
 <img src="https://img.shields.io/badge/Skill-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</div>
-
 </td>
-<td width="33%" align="center" valign="top">
-
-&nbsp;
-
-</td>
+<td width="33%">&nbsp;</td>
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=900&lines=Verified+credentials+posted+on+LinkedIn;Enterprise+Commerce+%7C+Cloud+%7C+API+Gateway+%7C+Engineering;Continuous+learning+with+real+project+implementation" />
-
-</div>
-
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655846-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="35" /> GitHub Trophies <img src="https://user-images.githubusercontent.com/74038190/216655846-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="35" />
+## <img src="https://user-images.githubusercontent.com/74038190/216655846-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="35" /> GitHub Trophies
 
 <div align="center">
 
@@ -568,16 +408,14 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7c84f2e0f0de.gif" width="35" /> GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7c84f2e0f0de.gif" width="35" />
+## <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7c84f2e0f0de.gif" width="35" /> GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuniPrasad123&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuniPrasad123&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
 
-<br/>
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=MuniPrasad123&theme=algolia&hide_border=true" />
 
@@ -585,7 +423,7 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656986-88e7a45c-6d31-4cf7-a825-765dc3b86f7e.gif" width="35" /> Contribution Activity <img src="https://user-images.githubusercontent.com/74038190/216656986-88e7a45c-6d31-4cf7-a825-765dc3b86f7e.gif" width="35" />
+## <img src="https://user-images.githubusercontent.com/74038190/216656986-88e7a45c-6d31-4cf7-a825-765dc3b86f7e.gif" width="35" /> Contribution Activity
 
 <div align="center">
 
@@ -595,7 +433,7 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656974-46366783-f8be-4a3c-bf73-890e6ea2faca.gif" width="35" /> Featured Project <img src="https://user-images.githubusercontent.com/74038190/216656974-46366783-f8be-4a3c-bf73-890e6ea2faca.gif" width="35" />
+## <img src="https://user-images.githubusercontent.com/74038190/216656974-46366783-f8be-4a3c-bf73-890e6ea2faca.gif" width="35" /> Featured Project
 
 <div align="center">
 
@@ -603,8 +441,7 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuniPrasad123&repo=muni-prasad-portfolio&theme=algolia&hide_border=true" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 🌐 Professional Portfolio Website
 
@@ -622,103 +459,70 @@ A modern portfolio website built to showcase my experience, technical skills, pr
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" /> Enterprise E-Commerce Expertise <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" />
+## <img src="https://user-images.githubusercontent.com/74038190/216656971-9d206923-2c2f-4f8a-94d0-8ea41c3bce26.gif" width="35" /> Enterprise E-Commerce Expertise
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=14B8A6&center=true&vCenter=true&width=950&lines=Checkout+%7C+Payments+%7C+Promotions+%7C+OMS;KIBO+Commerce+%7C+Search+%7C+Subscriptions+%7C+Administration;Salesforce+CRM+%7C+APIGEE+%7C+GTM+%7C+Pinterest+CAPI;Oracle+ATG+Commerce+%7C+Enterprise+Retail+Systems;Production+Support+%7C+RCA+%7C+Release+Support" />
-
-<br/>
-<br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="75" /><br/>
 <h3>🛒 Commerce Platform</h3>
-<img src="https://img.shields.io/badge/KIBO%20Commerce-FFD700?style=for-the-badge&logoColor=0F172A" />
-<br/>
-<img src="https://img.shields.io/badge/Oracle%20ATG%20Commerce-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/KIBO%20Commerce-FFD700?style=for-the-badge&logoColor=0F172A" /><br/>
+<img src="https://img.shields.io/badge/Oracle%20ATG%20Commerce-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Enterprise%20Retail%20Systems-0F172A?style=for-the-badge&logo=shopify&logoColor=14B8A6" />
 </td>
-
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="75" /><br/>
 <h3>🧾 Checkout</h3>
-<img src="https://img.shields.io/badge/Cart%20%26%20Checkout-14B8A6?style=for-the-badge&logo=carto&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/Cart%20%26%20Checkout-14B8A6?style=for-the-badge&logo=carto&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Order%20Submission-0F172A?style=for-the-badge&logo=githubactions&logoColor=14B8A6" />
 </td>
-
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="75" /><br/>
 <h3>💳 Payments</h3>
-<img src="https://img.shields.io/badge/Payment%20Gateway-0F172A?style=for-the-badge&logo=stripe&logoColor=14B8A6" />
-<br/>
+<img src="https://img.shields.io/badge/Payment%20Gateway-0F172A?style=for-the-badge&logo=stripe&logoColor=14B8A6" /><br/>
 <img src="https://img.shields.io/badge/Auth%20%7C%20Callback-14B8A6?style=for-the-badge&logo=paypal&logoColor=white" />
 </td>
 </tr>
-
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="75" /><br/>
 <h3>🎯 Promotions</h3>
-<img src="https://img.shields.io/badge/Item%20Level%20Discounts-0F172A?style=for-the-badge&logo=salesforce&logoColor=14B8A6" />
-<br/>
+<img src="https://img.shields.io/badge/Item%20Level%20Discounts-0F172A?style=for-the-badge&logo=salesforce&logoColor=14B8A6" /><br/>
 <img src="https://img.shields.io/badge/Order%20Level%20Promotions-14B8A6?style=for-the-badge&logo=target&logoColor=white" />
 </td>
-
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="75" /><br/>
 <h3>📦 Order Management</h3>
-<img src="https://img.shields.io/badge/OMS%20Integrations-0F172A?style=for-the-badge&logo=databricks&logoColor=14B8A6" />
-<br/>
+<img src="https://img.shields.io/badge/OMS%20Integrations-0F172A?style=for-the-badge&logo=databricks&logoColor=14B8A6" /><br/>
 <img src="https://img.shields.io/badge/Order%20Validation-14B8A6?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </td>
-
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="75" /><br/>
 <h3>🔗 CRM Integration</h3>
-<img src="https://img.shields.io/badge/Salesforce%20CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/APIGEE%20API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/Salesforce%20CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/APIGEE%20API%20Gateway-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Account%20%26%20Contact%20Sync-0F172A?style=for-the-badge&logo=graphql&logoColor=14B8A6" />
 </td>
 </tr>
-
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="75" /><br/>
 <h3>📊 Analytics Tracking</h3>
-<img src="https://img.shields.io/badge/GTM-14B8A6?style=for-the-badge&logo=googletagmanager&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/GTM-14B8A6?style=for-the-badge&logo=googletagmanager&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Facebook%20Events%20%7C%20Pinterest%20CAPI-0F172A?style=for-the-badge&logo=meta&logoColor=14B8A6" />
 </td>
-
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="75" /><br/>
 <h3>🔍 Production Support</h3>
-<img src="https://img.shields.io/badge/RCA%20%7C%20Logs-0F172A?style=for-the-badge&logo=elasticstack&logoColor=14B8A6" />
-<br/>
+<img src="https://img.shields.io/badge/RCA%20%7C%20Logs-0F172A?style=for-the-badge&logo=elasticstack&logoColor=14B8A6" /><br/>
 <img src="https://img.shields.io/badge/Defect%20Fixing-14B8A6?style=for-the-badge&logo=bugatti&logoColor=white" />
 </td>
-
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="75" />
-<br/>
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="75" /><br/>
 <h3>🚀 Deployment</h3>
-<img src="https://img.shields.io/badge/Jenkins%20%7C%20Git%20%7C%20Linux-0F172A?style=for-the-badge&logo=jenkins&logoColor=14B8A6" />
-<br/>
+<img src="https://img.shields.io/badge/Jenkins%20%7C%20Git%20%7C%20Linux-0F172A?style=for-the-badge&logo=jenkins&logoColor=14B8A6" /><br/>
 <img src="https://img.shields.io/badge/Release%20Support-14B8A6?style=for-the-badge&logo=githubactions&logoColor=white" />
 </td>
 </tr>
@@ -732,35 +536,23 @@ A modern portfolio website built to showcase my experience, technical skills, pr
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=700&color=14B8A6&center=true&vCenter=true&width=950&lines=Build+strong+GitHub+portfolio+projects;Improve+LinkedIn+and+professional+branding;Create+enterprise+eCommerce+technical+documentation;Prepare+for+global+Senior+Software+Engineer+opportunities;Learn+GenAI%2C+Agentic+AI%2C+Cloud+Automation%2C+and+System+Design" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=14B8A6&center=true&vCenter=true&width=950&lines=Build+strong+GitHub+portfolio+projects;Improve+LinkedIn+and+professional+branding;Create+enterprise+eCommerce+technical+documentation;Prepare+for+global+Senior+Software+Engineer+opportunities;Learn+GenAI%2C+Agentic+AI%2C+Cloud+Automation%2C+and+System+Design" />
 
 </div>
 
 ---
 
-## 💬 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
-
-</div>
-
----
-
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216656967-625b4702-5f53-4cdb-967c-6122f8944d70.gif" width="55" />
 
-<br/>
-<br/>
+<br/><br/>
 
 I love connecting with developers, recruiters, technology leaders, and enterprise engineering teams.
 
-<br/>
-<br/>
+<br/><br/>
 
 <a href="https://www.muniprasad.in">
   <img src="https://img.shields.io/badge/WEBSITE-14B8A6?style=for-the-badge&logo=aboutdotme&logoColor=white" />
@@ -775,20 +567,23 @@ I love connecting with developers, recruiters, technology leaders, and enterpris
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Let's+build+scalable+enterprise+systems+together;Open+to+global+software+engineering+opportunities;Happy+to+connect+with+developers%2C+recruiters%2C+and+tech+teams" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Let's+build+scalable+enterprise+systems+together;Open+to+global+software+engineering+opportunities;Happy+to+connect+with+developers%2C+recruiters%2C+and+tech+teams" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
 
 </div>
 
@@ -811,12 +606,16 @@ I love connecting with developers, recruiters, technology leaders, and enterpris
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub+profile;Building+clean%2C+scalable%2C+enterprise-grade+software;Keep+learning.+Keep+building.+Keep+growing." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub+profile;Building+clean%2C+scalable%2C+enterprise-grade+software;Keep+learning.+Keep+building.+Keep+growing." />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0891B2,100:0F172A&height=140&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:14B8A6&height=140&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0891B2,100:0F172A&height=140&section=footer">
+  <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0891B2,100:0F172A&height=140&section=footer">
+</picture>
 
 </div>
