@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:14B8A6&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,45:14B8A6,100:0F172A&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50">
-  <img width="100%" alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:14B8A6,100:5EEAD4&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50">
-</picture>
+<img width="100%" alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:14B8A6,100:5EEAD4&height=230&section=header&text=MUNI%20PRASAD%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Senior%20Technical%20Consultant%20%7C%20Enterprise%20E-Commerce%20Engineer&descSize=17&descAlignY=56&descAlign=50" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&width=1000&lines=Senior+Software+Engineer;Senior+Technical+Consultant;Enterprise+E-Commerce+Engineer;Oracle+ATG+Commerce+Specialist;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;KIBO+Commerce+%7C+Docker+%7C+Kubernetes;APIGEE+Gateway+%7C+Figma+Design;Building+Scalable+Enterprise+Commerce+Solutions" alt="Typing Animation" />
 
@@ -200,7 +196,7 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/main/assets/skills-animated.svg" width="620" alt="Animated skill proficiency bars" />
+<img src="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/main/skills-animated.svg" width="620" alt="Animated skill proficiency bars" />
 
 </div>
 
@@ -579,13 +575,11 @@ I love connecting with developers, recruiters, technology leaders, and enterpris
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
-</picture>
+<img src="https://raw.githubusercontent.com/MuniPrasad123/MuniPrasad123/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
 
 </div>
+
+<sub>⚠️ This shows a broken image until the <code>Generate Snake Animation</code> workflow has run once — see setup note below.</sub>
 
 ---
 
@@ -612,10 +606,6 @@ I love connecting with developers, recruiters, technology leaders, and enterpris
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:14B8A6&height=140&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0891B2,100:0F172A&height=140&section=footer">
-  <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0891B2,100:0F172A&height=140&section=footer">
-</picture>
+<img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0891B2,100:0F172A&height=140&section=footer" />
 
 </div>
