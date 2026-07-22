@@ -398,7 +398,7 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuniPrasad123&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+<img src="https://github-profile-trophy-five-nu.vercel.app/?username=MuniPrasad123&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
 
 </div>
 
