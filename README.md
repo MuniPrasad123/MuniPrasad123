@@ -408,8 +408,8 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuniPrasad123&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuniPrasad123&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-psi-lovat-88.vercel.app/api?username=MuniPrasad123&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-psi-lovat-88.vercel.app/api/top-langs/?username=MuniPrasad123&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
@@ -434,7 +434,7 @@ I am a **Senior Software Engineer / Senior Technical Consultant** with **10+ yea
 <div align="center">
 
 <a href="https://github.com/MuniPrasad123/muni-prasad-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuniPrasad123&repo=muni-prasad-portfolio&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats-psi-lovat-88.vercel.app/api/pin/?username=MuniPrasad123&repo=muni-prasad-portfolio&theme=algolia&hide_border=true" />
 </a>
 
 <br/><br/>
